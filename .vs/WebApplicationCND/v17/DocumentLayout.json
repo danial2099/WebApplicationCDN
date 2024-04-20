@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dania\\source\\repos\\WebApplicationCND\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26613A15-A943-4686-A5B3-4770B5006C98}|WebApplicationCND\\WebApplicationCND.csproj|c:\\users\\dania\\source\\repos\\webapplicationcnd\\webapplicationcnd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26613A15-A943-4686-A5B3-4770B5006C98}|WebApplicationCND\\WebApplicationCND.csproj|solutionrelative:webapplicationcnd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26613A15-A943-4686-A5B3-4770B5006C98}|WebApplicationCND\\WebApplicationCND.csproj|c:\\users\\dania\\source\\repos\\webapplicationcnd\\webapplicationcnd\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26613A15-A943-4686-A5B3-4770B5006C98}|WebApplicationCND\\WebApplicationCND.csproj|solutionrelative:webapplicationcnd\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26613A15-A943-4686-A5B3-4770B5006C98}|WebApplicationCND\\WebApplicationCND.csproj|c:\\users\\dania\\source\\repos\\webapplicationcnd\\webapplicationcnd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26613A15-A943-4686-A5B3-4770B5006C98}|WebApplicationCND\\WebApplicationCND.csproj|solutionrelative:webapplicationcnd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26613A15-A943-4686-A5B3-4770B5006C98}|WebApplicationCND\\WebApplicationCND.csproj|c:\\users\\dania\\source\\repos\\webapplicationcnd\\webapplicationcnd\\webapplicationcnd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26613A15-A943-4686-A5B3-4770B5006C98}|WebApplicationCND\\WebApplicationCND.csproj|solutionrelative:webapplicationcnd\\webapplicationcnd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26613A15-A943-4686-A5B3-4770B5006C98}|WebApplicationCND\\WebApplicationCND.csproj|c:\\users\\dania\\source\\repos\\webapplicationcnd\\webapplicationcnd\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26613A15-A943-4686-A5B3-4770B5006C98}|WebApplicationCND\\WebApplicationCND.csproj|solutionrelative:webapplicationcnd\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26613A15-A943-4686-A5B3-4770B5006C98}|WebApplicationCND\\WebApplicationCND.csproj|c:\\users\\dania\\source\\repos\\webapplicationcnd\\webapplicationcnd\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26613A15-A943-4686-A5B3-4770B5006C98}|WebApplicationCND\\WebApplicationCND.csproj|solutionrelative:webapplicationcnd\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26613A15-A943-4686-A5B3-4770B5006C98}|WebApplicationCND\\WebApplicationCND.csproj|c:\\users\\dania\\source\\repos\\webapplicationcnd\\webapplicationcnd\\webapplicationcnd.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{26613A15-A943-4686-A5B3-4770B5006C98}|WebApplicationCND\\WebApplicationCND.csproj|solutionrelative:webapplicationcnd\\webapplicationcnd.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26613A15-A943-4686-A5B3-4770B5006C98}|WebApplicationCND\\WebApplicationCND.csproj|c:\\users\\dania\\source\\repos\\webapplicationcnd\\webapplicationcnd\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26613A15-A943-4686-A5B3-4770B5006C98}|WebApplicationCND\\WebApplicationCND.csproj|solutionrelative:webapplicationcnd\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26613A15-A943-4686-A5B3-4770B5006C98}|WebApplicationCND\\WebApplicationCND.csproj|c:\\users\\dania\\source\\repos\\webapplicationcnd\\webapplicationcnd\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26613A15-A943-4686-A5B3-4770B5006C98}|WebApplicationCND\\WebApplicationCND.csproj|solutionrelative:webapplicationcnd\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26613A15-A943-4686-A5B3-4770B5006C98}|WebApplicationCND\\WebApplicationCND.csproj|c:\\users\\dania\\source\\repos\\webapplicationcnd\\webapplicationcnd\\migrations\\usercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26613A15-A943-4686-A5B3-4770B5006C98}|WebApplicationCND\\WebApplicationCND.csproj|solutionrelative:webapplicationcnd\\migrations\\usercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26613A15-A943-4686-A5B3-4770B5006C98}|WebApplicationCND\\WebApplicationCND.csproj|c:\\users\\dania\\source\\repos\\webapplicationcnd\\webapplicationcnd\\migrations\\20240419131000_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26613A15-A943-4686-A5B3-4770B5006C98}|WebApplicationCND\\WebApplicationCND.csproj|solutionrelative:webapplicationcnd\\migrations\\20240419131000_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dania\\source\\repos\\WebApplicationCND\\WebApplicationCND\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationCND\\Program.cs",
+              "ToolTip": "C:\\Users\\dania\\source\\repos\\WebApplicationCND\\WebApplicationCND\\Program.cs",
+              "RelativeToolTip": "WebApplicationCND\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:00:47.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\dania\\source\\repos\\WebApplicationCND\\WebApplicationCND\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApplicationCND\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\dania\\source\\repos\\WebApplicationCND\\WebApplicationCND\\appsettings.Development.json",
+              "RelativeToolTip": "WebApplicationCND\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-19T14:07:43.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dania\\source\\repos\\WebApplicationCND\\WebApplicationCND\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplicationCND\\appsettings.json",
+              "ToolTip": "C:\\Users\\dania\\source\\repos\\WebApplicationCND\\WebApplicationCND\\appsettings.json",
+              "RelativeToolTip": "WebApplicationCND\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-19T12:58:08.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApplicationCND.http",
+              "DocumentMoniker": "C:\\Users\\dania\\source\\repos\\WebApplicationCND\\WebApplicationCND\\WebApplicationCND.http",
+              "RelativeDocumentMoniker": "WebApplicationCND\\WebApplicationCND.http",
+              "ToolTip": "C:\\Users\\dania\\source\\repos\\WebApplicationCND\\WebApplicationCND\\WebApplicationCND.http",
+              "RelativeToolTip": "WebApplicationCND\\WebApplicationCND.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-19T14:02:36.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebApplicationCND.csproj",
+              "DocumentMoniker": "C:\\Users\\dania\\source\\repos\\WebApplicationCND\\WebApplicationCND\\WebApplicationCND.csproj",
+              "RelativeDocumentMoniker": "WebApplicationCND\\WebApplicationCND.csproj",
+              "ToolTip": "C:\\Users\\dania\\source\\repos\\WebApplicationCND\\WebApplicationCND\\WebApplicationCND.csproj",
+              "RelativeToolTip": "WebApplicationCND\\WebApplicationCND.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-19T15:19:47.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\dania\\source\\repos\\WebApplicationCND\\WebApplicationCND\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplicationCND\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\dania\\source\\repos\\WebApplicationCND\\WebApplicationCND\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplicationCND\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-19T14:07:59.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dania\\source\\repos\\WebApplicationCND\\WebApplicationCND\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApplicationCND\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\dania\\source\\repos\\WebApplicationCND\\WebApplicationCND\\Models\\User.cs",
+              "RelativeToolTip": "WebApplicationCND\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:50:48.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\dania\\source\\repos\\WebApplicationCND\\WebApplicationCND\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApplicationCND\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\dania\\source\\repos\\WebApplicationCND\\WebApplicationCND\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApplicationCND\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:15:26.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240419131000_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\dania\\source\\repos\\WebApplicationCND\\WebApplicationCND\\Migrations\\20240419131000_Initial.cs",
+              "RelativeDocumentMoniker": "WebApplicationCND\\Migrations\\20240419131000_Initial.cs",
+              "ToolTip": "C:\\Users\\dania\\source\\repos\\WebApplicationCND\\WebApplicationCND\\Migrations\\20240419131000_Initial.cs",
+              "RelativeToolTip": "WebApplicationCND\\Migrations\\20240419131000_Initial.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:10:01.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\dania\\source\\repos\\WebApplicationCND\\WebApplicationCND\\Models\\UserContext.cs",
+              "RelativeDocumentMoniker": "WebApplicationCND\\Models\\UserContext.cs",
+              "ToolTip": "C:\\Users\\dania\\source\\repos\\WebApplicationCND\\WebApplicationCND\\Models\\UserContext.cs",
+              "RelativeToolTip": "WebApplicationCND\\Models\\UserContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:55:44.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\dania\\source\\repos\\WebApplicationCND\\WebApplicationCND\\Migrations\\UserContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplicationCND\\Migrations\\UserContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\dania\\source\\repos\\WebApplicationCND\\WebApplicationCND\\Migrations\\UserContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplicationCND\\Migrations\\UserContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:08:23.112Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

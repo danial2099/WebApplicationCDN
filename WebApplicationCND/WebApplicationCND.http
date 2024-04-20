@@ -1,0 +1,6 @@
+@WebApplicationCND_HostAddress = http://localhost:5289
+
+GET {{WebApplicationCND_HostAddress}}/CNDWebApp/
+Accept: application/json
+
+###
