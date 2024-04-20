@@ -15,11 +15,12 @@ The project contains the use of @GET,@POST, @PUT and @DELETE. The Restful API me
 ### Installing
 
 *Please Import the backup table of CNDdb into the MSSQL under server=localhost in your environment.
-*Run the program of .sln file.
+*Make sure first to install any Nuget Packages and updating .Net core version.
+*Run the CNDdb as backupfile and it will be used for the WebApplicationCND solution.
 
 ### Executing program
 
-* Running the solution by opening the project solution using Visual Studio 2022
+* Running the solution by opening the project solution using Visual Studio 2022.
 ```
 code blocks for commands
 ```
